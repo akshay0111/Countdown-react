@@ -1,0 +1,5 @@
+.day,.hour,.minute,.seconds{
+    display: inline;
+    font-size: 35px;
+    margin: 10px;
+}
